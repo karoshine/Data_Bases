@@ -1,4 +1,4 @@
-import { db, myRentals, myCart, currentUser, loginUser, logoutUser, fetchMovies,fetchMyRentals,setCurrentUser,returnMovie,depositMoney,popularMovies,fetchPopularMovies,prolongLoan,
+import { db, myRentals, myCart, currentUser, loginUser, logoutUser, registerUser, fetchMovies, fetchMyRentals, setCurrentUser, returnMovie, depositMoney, popularMovies, fetchPopularMovies, prolongLoan,
     myReservations, fetchMyReservations
  } from './api.js';
 import { Navbar } from './components/Navbar.js';
